@@ -8,7 +8,7 @@
 
 ## 사용 기술
 + <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> - Sensors, Motors and Display Management
-+ <img src="https://img.shields.io/badge/Nextion-00979D?style=flat-square&logo=Arduino&logoColor=white"/> - Touch Display
++ <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> - Touch Display
 + <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> - Configuration Management
 
 ## 프로젝트 설명
@@ -20,11 +20,16 @@
 ---
 ## 핵심 기능 설명
 
-### 0. Index
-+ <img src ="https://github.com/Mellowball/Games-using-Myo_Armband/blob/main/img_Readme/0-index.png"/>
-
-
-### 6. 실제 동작 영상
-<img src ="https://github.com/Mellowball/Games-using-Myo_Armband/blob/main/img_Readme/bluetooth_connect.gif"/>
-<img src ="https://github.com/Mellowball/Games-using-Myo_Armband/blob/main/img_Readme/rsp_game.gif"/>
-<img src ="https://github.com/Mellowball/Games-using-Myo_Armband/blob/main/img_Readme/dino_game.gif"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/0.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/1.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/2.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/3.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/4.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/5.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/6.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/7.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/8.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/9.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/10.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/11.png"/>
+<img src ="https://github.com/Mellowball/Green-Wall/tree/main/readme_img/12.png"/>
