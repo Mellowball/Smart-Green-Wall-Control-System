@@ -8,7 +8,7 @@
 
 ## 사용 기술
 + <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> - Sensors, Motors and Display Management
-+ <img src="https://img.shields.io/badge/Ard-00979D?style=flat-square&logo=Arduino&logoColor=white"/> - Touch Display
++ <img src="https://img.shields.io/badge/Nextion-00979D?style=flat-square"/> - Touch Display
 + <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> - Configuration Management
 
 ## 프로젝트 설명
